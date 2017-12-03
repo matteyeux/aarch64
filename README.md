@@ -1,1 +1,10 @@
 # aarch64
+- [Exploring AArch64 assembler – Chapter 1](http://thinkingeek.com/2016/10/08/exploring-aarch64-assembler-chapter1/)
+- [Exploring AArch64 assembler – Chapter 2](http://thinkingeek.com/2016/10/08/exploring-aarch64-assembler-chapter-2/)
+- [Exploring AArch64 assembler – Chapter 3](http://thinkingeek.com/2016/10/23/exploring-aarch64-assembler-chapter-3/)
+- [Exploring AArch64 assembler – Chapter 4](http://thinkingeek.com/2016/10/23/exploring-aarch64-assembler-chapter-4/)
+- [Exploring AArch64 assembler – Chapter 5](http://thinkingeek.com/2016/11/13/exploring-aarch64-assembler-chapter-5/)
+- [Exploring AArch64 assembler – Chapter 6](http://thinkingeek.com/2016/11/27/exploring-aarch64-assembler-chapter-6/)
+- [Exploring AArch64 assembler – Chapter 7](http://thinkingeek.com/2017/03/19/exploring-aarch64-assembler-chapter-7/)
+- [Exploring AArch64 assembler – Chapter 8](http://thinkingeek.com/2017/05/29/exploring-aarch64-assembler-chapter-8/)
+- [Exploring AArch64 assembler – Chapter 9](http://thinkingeek.com/2017/11/05/exploring-aarch64-assembler-chapter-9/)
